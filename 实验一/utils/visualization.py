@@ -1,6 +1,6 @@
 import os
 import json
-import util
+from . import util
 
 
 def geo_json_generate_traj_from_dict(link_wkts, type_style="LineString"):

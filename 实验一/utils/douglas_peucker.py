@@ -2,7 +2,7 @@ from __future__ import division
 from math import sqrt, pow
 import matplotlib.pyplot as plt
 #import util as util
-from util import *
+from .util import *
 #THRESHOLD = 5  # 阈值5m
 
 
